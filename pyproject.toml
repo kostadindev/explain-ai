@@ -1,0 +1,19 @@
+[project]
+name = "explain-ai"
+version = "0.0.1"
+authors = [
+  { name="Kostadin Devedzhiev", email="kostadin.g.devedzhiev@gmail.com" },
+]
+description = "A Python package that uses LLMs to explain **native Python objects**"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/kostadindev/explain-ai"
+Issues = "https://github.com/kostadindev/explain-ai/issues"
