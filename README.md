@@ -1,10 +1,12 @@
 # explain-ai
 
-A Python package that uses **Google Gemini Flash 2.0** to explain **native Python objects**, including:
+A Python package that uses LLMs to explain **any Python objects**, including:
 
-- Integers, Floats, Booleans, Strings
 - Lists, Dictionaries
 - Custom Python Classes
+- Pandas Dataframes
+- Numpy Arrays
+
 
 ## Installation
 
